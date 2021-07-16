@@ -35,5 +35,5 @@ In the binary task accuracy of 95.4% was obtained just by training about 2000 pa
 The implementation of same is in the `binary_2.ipynb` file.
 
 ### Refrences
-*Reasearch Paper- [Click here]( https://journals.physiology.org/doi/pdf/10.1152/physiolgenomics.00084.2020)<br>
-Dataset - [Cick here](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)*
+- *Reasearch Paper- [Click here]( https://journals.physiology.org/doi/pdf/10.1152/physiolgenomics.00084.2020)*
+- *Dataset - [Cick here](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)*
