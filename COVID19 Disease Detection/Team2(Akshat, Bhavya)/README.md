@@ -15,9 +15,9 @@ The best accuracy that we could obtain was 98.11% in the `binary_1` model. The w
 Following Architecture were created by us for the Binary classification-<br>
 1. In `multiclass_1.ipynb` - [Click here](https://user-images.githubusercontent.com/81357954/125947318-5c946588-d9da-48e7-a106-e8704fffb99b.png)
 2. In `multiclass_2.ipynb` - [Click here](https://user-images.githubusercontent.com/81357954/125947538-fb1a7ad1-5c00-464c-8acd-0c6021617d56.png)
-##  
-The best accuracy that we could obtain was 95.82% in the `multiclass_2` model. The weights of which are in the repo as `multiclass.h5` file.<br>
 
+The best accuracy that we could obtain was 95.82% in the `multiclass_2` model. The weights of which are in the repo as `multiclass.h5` file.<br>
+##
 Since jupyter notebook many a times aren't rendered properly on github so we are attaching the google colab links to them below -
 1. [bianry_1.ipynb](https://colab.research.google.com/drive/1ZczFhORUnW1y2FcTntaODc0GrSbsCq3r?usp=sharing)
 2. [binary_2.ipynb](https://colab.research.google.com/drive/1qqNB35bpnZs9jCXbxSOgdGIZfi9gSfkB)
