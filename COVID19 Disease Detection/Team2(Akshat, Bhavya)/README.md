@@ -1,6 +1,7 @@
 # COVID19 Disease Detection
 
-We have implemented 4 models 2 each for binary and multiclass classification.
+We have implemented 4 models 2 each for binary and multiclass classification.<br>
+Also we tried Tranfer learning for the binary classification task.
 
 ## Binary classification
 Following Architecture were created by us for the Binary classification-<br>
